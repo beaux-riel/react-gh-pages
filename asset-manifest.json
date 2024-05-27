@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beaux-riel/react-gh-pages.git/static/css/main.6580f94b.css",
+    "main.js": "/beaux-riel/react-gh-pages.git/static/js/main.d80208b3.js",
+    "static/js/453.eb7b8028.chunk.js": "/beaux-riel/react-gh-pages.git/static/js/453.eb7b8028.chunk.js",
+    "index.html": "/beaux-riel/react-gh-pages.git/index.html",
+    "main.6580f94b.css.map": "/beaux-riel/react-gh-pages.git/static/css/main.6580f94b.css.map",
+    "main.d80208b3.js.map": "/beaux-riel/react-gh-pages.git/static/js/main.d80208b3.js.map",
+    "453.eb7b8028.chunk.js.map": "/beaux-riel/react-gh-pages.git/static/js/453.eb7b8028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6580f94b.css",
+    "static/js/main.d80208b3.js"
+  ]
+}
